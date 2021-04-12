@@ -1,0 +1,10 @@
+[0-9]*
+SW*
+pro*
+*.log
+log.*
+*.pvsm
+*.ogv
+*.png
+*.foam
+polyMe*
