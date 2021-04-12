@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [0-9]*
 SW*
 pro*
@@ -8,3 +9,8 @@ log.*
 *.png
 *.foam
 polyMe*
+!0.orig
+=======
+blockMeshDict
+*.vscode/
+>>>>>>> a3bb16f322e3df934b6e7f0a1331738bf2600a41
